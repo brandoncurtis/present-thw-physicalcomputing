@@ -1,6 +1,6 @@
-# thw-physicalcomputing
+# present-thw-physicalcomputing
 
-Presentation on Physical Computing at UC Berkeley's The Hacker Within
+Presentation and hands-on messin' with Physical Computing at UC Berkeley's The Hacker Within, November 2016.
 
 Prepared using reveal.js.
 
